@@ -1,0 +1,10 @@
+﻿MQTTClient_subscribe.obj : error LNK2019: unresolved external symbol _MQTTAsync_setCallbacks referenced in function _main
+MQTTClient_subscribe.obj : error LNK2019: unresolved external symbol _MQTTAsync_create referenced in function _main
+MQTTClient_subscribe.obj : error LNK2019: unresolved external symbol _MQTTAsync_connect referenced in function _connectionLost
+MQTTClient_subscribe.obj : error LNK2019: unresolved external symbol _MQTTAsync_disconnect referenced in function _main
+MQTTClient_subscribe.obj : error LNK2019: unresolved external symbol _MQTTAsync_subscribe referenced in function _onConnect
+MQTTClient_subscribe.obj : error LNK2019: unresolved external symbol _MQTTAsync_freeMessage referenced in function _messageArrived
+MQTTClient_subscribe.obj : error LNK2019: unresolved external symbol _MQTTAsync_free referenced in function _messageArrived
+MQTTClient_subscribe.obj : error LNK2019: unresolved external symbol _MQTTAsync_destroy referenced in function _main
+C:\JimsCode\c++\Eclipse-Paho-MQTT-C-1.2.1-Windows\lib\paho-mqtt3a.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\JimsCode\c++\Eclipse-Paho-MQTT-C-1.2.1-Windows\samples\MQTTClient_subscribe\Debug\MQTTClient_subscribe.exe : fatal error LNK1120: 8 unresolved externals
