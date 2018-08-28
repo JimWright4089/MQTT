@@ -7,3 +7,7 @@ C:\JimsCode\MQTT\SinTest\bin\Debug\MQTTCSInterface.dll
 C:\JimsCode\MQTT\SinTest\bin\Debug\MQTTCSInterface.pdb
 C:\JimsCode\MQTT\SinTest\obj\Debug\SinTest.exe
 C:\JimsCode\MQTT\SinTest\obj\Debug\SinTest.pdb
+C:\JimsCode\MQTT\Debug\SinTest.exe.config
+C:\JimsCode\MQTT\Debug\SinTest.exe
+C:\JimsCode\MQTT\Debug\SinTest.pdb
+C:\JimsCode\MQTT\SinTest\obj\Debug\SinTest.csproj.SinTest.exe.config

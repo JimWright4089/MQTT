@@ -1,2 +1,146 @@
 ﻿  MQTTInterfaceDLL.cpp
-c:\jimscode\mqtt\mqttinterfacedll\mqttinterfacedll.cpp(2): fatal error C1083: Cannot open include file: 'mosquitto.h': No such file or directory
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(326): error C2061: syntax error: identifier 'MQTTAsync_message'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(346): error C2061: syntax error: identifier 'MQTTAsync_token'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(386): error C3646: 'token': unknown override specifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(386): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(397): error C3646: 'token': unknown override specifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(397): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(408): error C3646: 'message': unknown override specifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(408): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(431): error C2061: syntax error: identifier 'MQTTAsync_successData'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(443): error C2061: syntax error: identifier 'MQTTAsync_failureData'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(456): error C2143: syntax error: missing ';' before '*'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(456): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(456): error C2238: unexpected token(s) preceding ';'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(462): error C2143: syntax error: missing ';' before '*'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(462): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(462): error C2238: unexpected token(s) preceding ';'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(474): error C3646: 'token': unknown override specifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(474): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(508): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(508): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(508): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(508): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(508): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(508): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(524): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(524): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(524): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(524): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(524): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(524): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(535): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(535): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(535): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(535): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(535): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(535): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(579): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(579): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(579): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(579): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(579): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(579): error C2065: 'handle': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(579): error C2059: syntax error: 'const'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(597): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(597): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(597): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(597): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(597): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(597): error C2065: 'handle': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(597): error C2059: syntax error: 'const'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(777): error C2143: syntax error: missing ';' before '*'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(777): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(777): error C2238: unexpected token(s) preceding ';'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(802): error C2143: syntax error: missing ';' before '*'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(802): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(802): error C2238: unexpected token(s) preceding ';'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(808): error C2143: syntax error: missing ';' before '*'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(808): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(808): error C2238: unexpected token(s) preceding ';'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(814): error C2143: syntax error: missing ';' before '*'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(814): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(814): error C2238: unexpected token(s) preceding ';'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(886): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(886): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(886): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(886): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(886): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(886): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(905): error C2143: syntax error: missing ';' before '*'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(905): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(905): error C2238: unexpected token(s) preceding ';'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(911): error C2143: syntax error: missing ';' before '*'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(911): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(911): error C2238: unexpected token(s) preceding ';'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(941): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(941): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(941): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(941): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(941): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(941): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(951): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(951): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(951): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(951): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(951): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(951): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(968): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(968): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(968): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(968): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(968): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(968): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(988): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(988): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(988): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(988): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(988): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(988): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1002): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1002): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1002): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1002): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1002): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1002): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1016): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1016): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1016): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1016): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1016): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1016): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1037): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1037): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1037): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1037): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1037): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1037): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1056): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1056): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1056): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1056): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1056): error C2065: 'MQTTAsync': undeclared identifier
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1056): error C2146: syntax error: missing ')' before identifier 'handle'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1077): error C3861: 'visibility': identifier not found
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1077): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1077): error C2374: '__attribute__': redefinition; multiple initialization
+  c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(218): note: see declaration of '__attribute__'
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1077): error C2448: '__attribute__': function-style initializer appears to be a function definition
+c:\jimscode\mqtt\eclipse-paho-mqtt-c-windows\include\mqttasync.h(1077): fatal error C1003: error count exceeds 100; stopping compilation

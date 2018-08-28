@@ -1,8 +1,0 @@
-C:\JimsCode\MQTT\MQTTCSInterface\bin\Debug\netstandard1.4\MQTTCSInterface.deps.json
-C:\JimsCode\MQTT\MQTTCSInterface\bin\Debug\netstandard1.4\MQTTCSInterface.dll
-C:\JimsCode\MQTT\MQTTCSInterface\bin\Debug\netstandard1.4\MQTTCSInterface.pdb
-C:\JimsCode\MQTT\MQTTCSInterface\obj\Debug\netstandard1.4\MQTTCSInterface.csprojResolveAssemblyReference.cache
-C:\JimsCode\MQTT\MQTTCSInterface\obj\Debug\netstandard1.4\MQTTCSInterface.csproj.CoreCompileInputs.cache
-C:\JimsCode\MQTT\MQTTCSInterface\obj\Debug\netstandard1.4\MQTTCSInterface.AssemblyInfo.cs
-C:\JimsCode\MQTT\MQTTCSInterface\obj\Debug\netstandard1.4\MQTTCSInterface.dll
-C:\JimsCode\MQTT\MQTTCSInterface\obj\Debug\netstandard1.4\MQTTCSInterface.pdb

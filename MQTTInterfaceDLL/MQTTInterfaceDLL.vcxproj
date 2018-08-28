@@ -75,6 +75,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <IncludePath>C:\JimsCode\MQTT\Eclipse-Paho-MQTT-C-Windows\include;$(IncludePath)</IncludePath>
     <LibraryPath>C:\JimsCode\MQTT\Eclipse-Paho-MQTT-C-Windows\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>../Debug</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

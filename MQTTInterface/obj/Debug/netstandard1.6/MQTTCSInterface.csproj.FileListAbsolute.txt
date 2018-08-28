@@ -1,0 +1,8 @@
+C:\JimsCode\MQTT\Debug\netstandard1.6\MQTTCSInterface.deps.json
+C:\JimsCode\MQTT\Debug\netstandard1.6\MQTTCSInterface.dll
+C:\JimsCode\MQTT\Debug\netstandard1.6\MQTTCSInterface.pdb
+C:\JimsCode\MQTT\MQTTInterface\obj\Debug\netstandard1.6\MQTTCSInterface.csprojResolveAssemblyReference.cache
+C:\JimsCode\MQTT\MQTTInterface\obj\Debug\netstandard1.6\MQTTCSInterface.csproj.CoreCompileInputs.cache
+C:\JimsCode\MQTT\MQTTInterface\obj\Debug\netstandard1.6\MQTTCSInterface.AssemblyInfo.cs
+C:\JimsCode\MQTT\MQTTInterface\obj\Debug\netstandard1.6\MQTTCSInterface.dll
+C:\JimsCode\MQTT\MQTTInterface\obj\Debug\netstandard1.6\MQTTCSInterface.pdb

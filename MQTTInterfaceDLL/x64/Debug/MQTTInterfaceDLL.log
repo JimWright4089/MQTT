@@ -1,3 +1,7 @@
-﻿     Creating library C:\JimsCode\MQTT\x64\Debug\MQTTInterfaceDLL.lib and object C:\JimsCode\MQTT\x64\Debug\MQTTInterfaceDLL.exp
-  MQTTInterfaceDLL.vcxproj -> C:\JimsCode\MQTT\x64\Debug\MQTTInterfaceDLL.dll
-  MQTTInterfaceDLL.vcxproj -> C:\JimsCode\MQTT\x64\Debug\MQTTInterfaceDLL.pdb (Partial PDB)
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  MQTTInterfaceDLL.cpp
+c:\jimscode\mqtt\mqttinterfacedll\mqttinterfacedll.cpp(48): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int'
+c:\jimscode\mqtt\mqttinterfacedll\mqttinterfacedll.cpp(48): warning C4313: 'sprintf_s': '%s' in format string conflicts with argument 2 of type 'int'
+     Creating library ../Debug\MQTTInterfaceDLL.lib and object ../Debug\MQTTInterfaceDLL.exp
+  MQTTInterfaceDLL.vcxproj -> C:\JimsCode\MQTT\MQTTInterfaceDLL\../Debug\MQTTInterfaceDLL.dll
+  MQTTInterfaceDLL.vcxproj -> ../Debug\MQTTInterfaceDLL.pdb (Partial PDB)

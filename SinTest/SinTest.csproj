@@ -17,7 +17,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>..\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -49,8 +49,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MQTTCSInterface\MQTTCSInterface.csproj">
-      <Project>{1056de56-4422-4e29-a21d-f56c0b146a86}</Project>
+    <ProjectReference Include="..\MQTTInterface\MQTTCSInterface.csproj">
+      <Project>{0dde5389-d370-4503-a27f-9aa2cd824de0}</Project>
       <Name>MQTTCSInterface</Name>
     </ProjectReference>
   </ItemGroup>

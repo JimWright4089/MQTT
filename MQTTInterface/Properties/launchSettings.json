@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MQTTInterface": {
+      "commandName": "Executable",
+      "executablePath": "C:\\JimsCode\\CS\\MQTTClientLibrary\\Debug\\SubscribeTest.exe"
+    }
+  }
+}

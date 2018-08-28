@@ -9,8 +9,7 @@ namespace SinTest
   {
     static void Main(string[] args)
     {
-      Console.WriteLine(MQTTInterface.InitServer("SinTest"));
-      Console.WriteLine(MQTTInterface.OpenServer("jimsserver02.local", 1883, 60000));
+      Console.WriteLine(MQTTInterface.OpenServer("SinTest", "jimsserver02.local", 1883, 60000));
       double count = 0.0;
 
       while (true)
