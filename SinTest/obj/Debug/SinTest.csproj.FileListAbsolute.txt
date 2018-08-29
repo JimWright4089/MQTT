@@ -4,3 +4,4 @@ C:\JimsCode\MQTT\Debug\SinTest.exe
 C:\JimsCode\MQTT\Debug\SinTest.pdb
 C:\JimsCode\MQTT\SinTest\obj\Debug\SinTest.exe
 C:\JimsCode\MQTT\SinTest\obj\Debug\SinTest.pdb
+C:\JimsCode\MQTT\SinTest\obj\Debug\SinTest.csprojResolveAssemblyReference.cache

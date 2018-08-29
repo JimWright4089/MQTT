@@ -37,7 +37,7 @@ namespace SinTest
         byte[] theData2 = Message.GetBytes(int32Sin);
         Publish("test/i32sin", theData2, (UInt16)theData2.Length, 0, 1);
 
-        byte[] theData3 = Encoding.UTF8.GetBytes(count.ToString() + "\n");
+        byte[] theData3 = Encoding.UTF8.GetBytes(count.ToString());
         Publish("test/sintext", theData3, (UInt16)theData3.Length, 0, 1);
 
         Thread.Sleep(10);

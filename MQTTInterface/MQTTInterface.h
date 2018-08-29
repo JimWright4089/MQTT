@@ -1,5 +1,5 @@
-#include "MQTTAsync.h"
-#include "MQTTClientPersistence.h"
+#include "MQTTClient.h"
+//#include "MQTTClientPersistence.h"
 
 typedef unsigned char uint8;
 typedef char int8;
@@ -39,9 +39,5 @@ const int16 SC_SUBSCRIBE_SUCCESS = 1002;
 const int16 SC_UNSUBSCRIBE_SUCCESS = 1003;
 const int16 SC_PUBLISH_SUCCESS = 1004;
 
-void onConnectFailure(void* context, MQTTAsync_failureData* response);
-void onConnect(void* context, MQTTAsync_successData* response);
-void onConnectionLost(void *context, char *cause);
-int onMessageArrived(void *context, char *topicName, int topicLen, MQTTAsync_message *message);
-void onPublishFailure(void* context, MQTTAsync_failureData* response);
-void onPublish(void* context, MQTTAsync_successData* response);
+int onMessage(void *context, char *topicName, int topicLen, MQTTClient_message *message);
+
