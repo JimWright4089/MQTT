@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D4687323-01C7-4AA5-BC8A-328F4903D330}</ProjectGuid>
+    <ProjectGuid>{0AF98A9A-7E9F-487D-A55E-CF73F4926493}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>SinTest</RootNamespace>
     <AssemblyName>SinTest</AssemblyName>
@@ -13,7 +13,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x64</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -47,12 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MQTTInterface\MQTTCSInterface.csproj">
-      <Project>{0dde5389-d370-4503-a27f-9aa2cd824de0}</Project>
-      <Name>MQTTCSInterface</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
